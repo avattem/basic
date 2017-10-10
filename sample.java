@@ -15,7 +15,7 @@ public class sample {
 		GregorianCalendar cal = new GregorianCalendar();
 		cal.set(2008, 0, 15, 0, 0, 0); // January 15th, 2008
 		Date cutoffDate = cal.getTime();
-		System.out.println("Hiii Ramya");
+		
 		System.out.println("All Files");
 		displayFiles(directory, null);
 
