@@ -1,0 +1,242 @@
+body
+	  {
+	  background: #00aae7; /* For browsers that do not support gradients */
+    background: -webkit-linear-gradient(white, #2368a0); /* For Safari 5.1 to 6.0 */
+    background: -o-linear-gradient( white,#2368a0); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(white, #2368a0); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(white, #2368a0); /* Standard syntax */
+	background-size:100% 250%;
+	  background-repeat:no-repeat;
+	  }
+	.header-search{
+	
+
+	padding: 20px 40px;
+	height: 80px;
+	color: black;
+	box-sizing: border-box;
+
+}
+
+.header-search .header-limiter {
+	max-width: 1200px;
+	text-align: right;
+	margin: 0 auto;
+}
+
+
+
+
+
+/* The header links */
+
+
+.header-search .header-qa{
+float:left;
+	display: inline-block;
+	padding: 0 5px;
+	text-decoration:none;
+	color: #2368a0;
+	font-size: 19px;
+	font-family: "Merriweather",serif;;
+	opacity: 0.9;
+	width:99%;
+	}
+	
+	.header-search .header-qa nav {
+	float:right;
+	margin-right:20px;
+	margin-top:54px;
+	}
+.header-search .header-qa nav a{	
+padding-right:16px;
+color: #2368a0;
+text-decoration:none;
+}
+
+.header-search .header-limiter nav a .fa-envelope {
+    left: 50px;
+    position: absolute;
+    top: 10px;
+	margin-left:50px;
+}
+.LoginButton button{
+ margin-top: 50px;
+	margin-left: 35%;
+   
+	 border: medium none;
+    border-radius: 3px;
+	background:#00aae7;
+    color: white;
+    display: block;
+    
+	font-family: "Merriweather",serif;
+   
+	float:left;
+	margin-right: -399px;
+   
+    padding: 5px 24px;
+}
+.Logincancel button{
+ margin-top: 50px;
+	margin-left: 35%;
+   
+	 border: medium none;
+    border-radius: 3px;
+	background:#ef4048;
+    color: white;
+    display: block;
+    
+	font-family: "Merriweather",serif;
+   
+	float:left;
+	margin-right: -399px;
+   
+    padding: 5px 24px;
+}
+.modal-header1{
+margin-left: 35%;
+    margin-top: 7%;
+    width: 35%;
+    height:7%;
+    
+}
+.modal-title{
+  
+	font-family: "Merriweather",serif;
+   
+    font-size: 26px;
+    margin-top: -3%;
+ padding: 3px 8px 5px -5px;
+}
+.file{
+margin-left:35%;
+margin-top:1%;
+	font-family: "Merriweather",serif;
+}
+
+.LoginButton button{
+ margin-top: 50px;
+	margin-left: 7%;
+   
+	 border: medium none;
+    border-radius: 3px;
+	background:#00aae7;
+    color: white;
+    display: block;
+    
+	font-family: "Merriweather",serif;
+   
+	float:left;
+	margin-right: -399px;
+   
+    padding: 11px 24px;
+}
+.Logincancel button{
+ margin-top: 50px;
+	margin-left: 20%;
+   
+	 border: medium none;
+    border-radius: 3px;
+	background:#ef4048;
+    color: white;
+    display: block;
+    
+	font-family: "Merriweather",serif;
+   
+	float:left;
+	margin-right: -399px;
+   
+    padding: 11px 24px;
+}
+.header-search .header-qa nav {
+	float:right;
+	margin-right: 71px;margin-top:54px;
+	}
+.header-search .header-qa nav div.selected a
+{
+color:white;
+}
+.header-search .header-qa nav a.selected{
+color:white;
+padding-left:15px;
+}
+.top-menu {
+
+display:inline-block;
+}
+.selected {
+color:white;
+background-color:#2368a0;
+
+}
+
+/* Making the header responsive. */
+
+@media all and (max-width: 600px) {
+
+	.header-search {
+		padding: 15px;
+		position: relative;
+	}
+
+	.header-search .header-limiter h1 {
+		float:none;
+		font-size: 24px;
+		line-height: 1;
+	}
+
+	.header-search .header-limiter nav {
+		text-align: center;
+		float: none;
+		margin: 0;
+	}
+
+	.header-search .header-limiter nav a {
+		font-size: 13px;
+	}
+
+	.header-search .header-limiter form {
+		position: absolute;
+		top: 20px;
+		right: 20px;
+	}
+
+}
+
+
+@media all and (max-width: 600px) {
+
+	.modal-header1{
+	width:100%;
+	margin-left: 0;
+	}
+	.modal-title{
+	 margin-top:39%;
+	
+	}
+	.modal-titleone{
+color: white;
+    font-size: 26px;
+    margin-top: 20%;
+padding: 3px 8px 5px 10px;
+  
+}
+.select-style {
+	width:75%;
+	margin-left:0;
+	
+}
+.LoginButton button{
+margin-left: 15%;
+    margin-right: -2%;
+}
+.Logincancel button{
+margin-left:10%;
+}
+.file{
+margin-left:10%;
+}
+
+
+}

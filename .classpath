@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path=".apt_generated">
+		<attributes>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v7.0">
+		<attributes>
+			<attribute name="owner.project.facets" value="jst.web"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/c3p0-0.9.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/com.springsource.bsh-2.0.0.b4.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/com.springsource.com.caucho-3.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/com.springsource.com.ibatis-2.3.4.726.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/com.springsource.commonj-1.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/com.springsource.edu.emory.mathcs.backport-3.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/com.springsource.javax.inject-1.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/com.springsource.javax.jdo-2.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/com.springsource.net.sf.cglib-2.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/com.springsource.org.aopalliance-1.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/com.springsource.org.apache.commons.fileupload-1.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/com.springsource.org.apache.commons.httpclient-3.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/com.springsource.org.apache.commons.pool-1.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/com.springsource.org.apache.log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/com.springsource.org.apache.taglibs.standard-1.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/com.springsource.org.codehaus.groovy-1.6.5.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/com.springsource.org.codehaus.jackson.mapper-1.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/com.springsource.org.jruby-1.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/com.springsource.org.junit-4.7.0.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/com.springsource.org.quartz-1.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/com.springsource.org.testng-5.10.0.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/commons-dbcp.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/easymock.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/jamon-2.7.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/jmxremote.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/jmxremote_optional.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/jmxri.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/jmxtools-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/jotm.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/jstl-1.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/org.springframework.aop-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/org.springframework.asm-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/org.springframework.aspects-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/org.springframework.beans-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/org.springframework.config.java-1.0.0.M4.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/org.springframework.context.support-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/org.springframework.context-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/org.springframework.core-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/org.springframework.expression-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/org.springframework.instrument.tomcat-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/org.springframework.instrument-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/org.springframework.jdbc-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/org.springframework.test-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/org.springframework.transaction-3.0.1.RELEASE-A (1).jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/org.springframework.transaction-3.0.1.RELEASE-A (2).jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/org.springframework.transaction-3.0.1.RELEASE-A (3).jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/org.springframework.transaction-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/org.springframework.web.portlet-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/org.springframework.web.servlet-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/org.springframework.web.struts-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/org.springframework.web-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/persistence.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/spring-beans-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/spring-context-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/spring-core-3.2.2.RELEASE (1).jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/spring-core-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/spring-expression-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/spring-javaconfig.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/spring-jdbc-3.2.0.RELEASE-sources.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/spring-jdbc-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/spring-tx-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/spring-web-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/spring-webmvc-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/spring-webmvc-portlet-3.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/standard-1.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/wstx-asl-3.2.7.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/xapool.jar"/>
+	<classpathentry kind="lib" path="E:/mssMe/QAFramework/New folder/xmlunit-1.2.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
