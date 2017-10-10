@@ -32,6 +32,7 @@ public class sample {
 		for (File file : files) {
 			Date lastMod = new Date(file.lastModified());
 			System.out.println("File: " + file.getName() + ", Date: " + lastMod + "");
+			System.out.println("--------------------->");
 		}
 	}
 
